@@ -1,2 +1,2 @@
-# Estudando_com_Alura1
+# Estudando_com_Alura3
 Estudando javaScript com o Alura.
